@@ -10,7 +10,7 @@ namespace DemoConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Compadreeee :D");
+            Console.WriteLine("Compadreeee :D = Updated on the server");
             Console.Read();
         }
     }
